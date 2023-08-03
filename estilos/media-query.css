@@ -19,13 +19,15 @@
         float: right;
         width: 70%;
     }
+    form > div.campo{
+        width: 100%;
+    }
     div.campo > input{
-        transform: translateY(-29%);
         width: 90%;
-        padding-left: 2px;
     }
     div.campo > i{
         width: 9%;
+        margin-right: 0px;
     }
 }
 
@@ -59,9 +61,9 @@
     div.campo > input{
         transform: translateY(-29%);
         width: 90%;
-        padding-left: 2px;
     }
     div.campo > i{
         width: 9%;
+        margin-right: 0px;
     }
 }
