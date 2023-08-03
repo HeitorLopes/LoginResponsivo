@@ -117,7 +117,7 @@ div.campo > label{
 div.campo > i{
     color: white;
     font-size: 2em;
-    width: 40px;
+    width: 9%;
     padding: 5px;
 }
 
@@ -126,7 +126,7 @@ div.campo > input{
     font-size: 1em;
     height: 100%;
     border-radius: 8px;
-    width: 81%;
+    width: 90%;
     transform: translateY(-29%);
     padding-left: 2px;
 }
