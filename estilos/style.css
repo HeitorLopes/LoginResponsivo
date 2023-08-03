@@ -126,11 +126,12 @@ div.campo > i{
 }
 
 div.campo > input{
-    background-color: #80f1ee;
+    /*background-color: #80f1ee;*/
+    background-color:#2d6462;
     font-size: 1em;
     height: 100%;
     border-radius: 8px;
-    width: 80%;
+    width: 82%;
     transform: translateY(-28%);
     padding-left: 2px;
     box-sizing: border-box;
